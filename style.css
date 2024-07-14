@@ -1,0 +1,8 @@
+.review-container { 
+    margin-bottom: 10px; 
+}
+
+#productList>div,
+button {
+    cursor: pointer;
+}
